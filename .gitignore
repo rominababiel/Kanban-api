@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+publish/
+*.user
+*.suo
+
+# Rider / VS / VS Code
+.vs/
+.idea/
+.vscode/
+
+# Secrets y config local
+appsettings.Local.json
+appsettings.*.Local.json
+*.env
+.env
+
+# Varios
+*.log
+TestResults/
